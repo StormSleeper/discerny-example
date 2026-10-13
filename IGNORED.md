@@ -1,0 +1,11 @@
+# Ignored
+<!-- One line per thread judged non-actionable: ref | YYYY-MM-DD | reason. Parse from the right (the ref may contain " | "). -->
+
+mail|Puppeteers' Guild newsletter – September | 2026-09-03 | newsletter
+mail|Loomwise ERP – scheduled maintenance Sat 12 Sep | 2026-09-08 | system notice
+mail|Bake-off Friday sign-up | 2026-09-10 | social
+mail|Toy Industry Weekly: autumn trade fair preview | 2026-09-16 | not actionable (T-0010)
+mail|Car park resurfacing – bays 1–12 closed | 2026-09-21 | facilities notice, no action
+teams|19:c40e9a|1758962400456 | 2026-09-27 | lunch order chat
+mail|Mk3 brochure photography – proofs | 2026-10-01 | deleted by user (T-0016)
+mail|Out of office: Saoirse Gallagher | 2026-10-05 | automatic reply
