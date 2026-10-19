@@ -6,7 +6,9 @@ Sample data for [Discerny](https://github.com/StormSleeper/discerny-app), a task
 
 ## What's in it
 
-A data folder in the format the app expects, in the middle of a busy October 2026:
+**As of:** Monday 12 October 2026. Everything is dated as if that day were today; see [Refresh the dates](#refresh-the-dates).
+
+A data folder in the format the app expects, in the middle of a busy few weeks:
 
 - **Items**: 21 open in `TASKS.md`, 4 waiting in the Inbox (`INBOX.md`) and 4 done (`DONE.md`): tasks, meetings, FYIs and things Imogen is waiting for, with due dates, projects, dependencies and sub-tasks.
 - **Records**: 22 people in `PEOPLE.md`, 3 projects in `PROJECTS.md` and 5 systems in `SYSTEMS.md`, with the relationships between them in `RELATIONSHIPS.md`.
@@ -28,9 +30,19 @@ git clone https://github.com/StormSleeper/discerny-example.git
 
 Change whatever you like. To put the sample data back as it was, run `git checkout . && git clean -fd` in this folder.
 
+## Refresh the dates
+
+As time moves on, the sample data slides into the past: every due date is overdue and every meeting is over. To bring it up to today, run this in this folder:
+
+```
+node tools/refresh-dates.mjs
+```
+
+It moves every date forward by the whole weeks from the as-of date above to today, so each meeting stays on the same weekday, and then updates the as-of date. Running it again the same day changes nothing. Times of day stay as they are. To move the dates so the as-of date becomes a given Monday, add `--to <YYYY-MM-DD>`; it must be a whole number of weeks away. To refresh a copy of this folder, name the copy after the options.
+
 ## Used by the app's tests
 
-The app's helper tests and skill evals run against this folder when it sits beside the app folder. They read it as of its last commit, so your own edits don't affect them. If you change the sample data on purpose, commit it, then run `node --test tools/test/discern.test.mjs` in the app folder, because some tests expect exact contents such as the next free ID.
+The app's helper tests and skill evals run against this folder when it sits beside the app folder. They read it as of its last commit, so your own edits don't affect them. They move their copy's dates back to Monday 12 October 2026 first, so refreshing the dates doesn't affect them either. If you change the sample data on purpose, commit it, then run `node --test tools/test/discern.test.mjs` in the app folder, because some tests expect exact contents such as the next free ID.
 
 ## Licence
 
