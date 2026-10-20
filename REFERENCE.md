@@ -1,6 +1,6 @@
 # Reference
 
-Stable links and contacts. All data is fictional (Pennywhistle Puppet Works Ltd); `.example` addresses and 01632 960xxx numbers are reserved for fiction.
+Web addresses, people's details and other things to look up. All data is fictional (Pennywhistle Puppet Works Ltd); `.example` addresses and 01632 960xxx numbers are reserved for fiction.
 
 ## Quality system
 - [Quality manual QM-001 rev 12](https://pennywhistle.sharepoint.example/sites/QA/Manual/QM-001-rev12.pdf)

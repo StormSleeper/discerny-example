@@ -1,5 +1,5 @@
 # Inbox
-<!-- Candidates proposed by the discern-* skills. Accept moves an item to TASKS.md; Dismiss logs it in IGNORED.md. -->
+<!-- Proposals for new items from the discern-* source skills, waiting for the user to clarify them. Accept moves an item to TASKS.md; Dismiss logs it in IGNORED.md. -->
 
 - [ ] T-0027 Supplier OTIF and PPM dashboard now live in Loomwise {ty:FYI; who:Callum Fraser; tg:Supplier Quality; urg:fyi; p:3; asg:2026-10-08 11:15}
   - src: Email "Supplier performance dashboard – now live" from Callum Fraser (8 Oct)

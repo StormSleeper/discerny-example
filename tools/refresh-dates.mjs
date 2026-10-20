@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Moves every date in a Discerny data folder forward by whole weeks, so the sample data looks
+// Moves every date in a Discerny data folder forward by whole weeks, so the Example looks
 // current. Runs on plain Node with no dependencies.
 //   node tools/refresh-dates.mjs [--to <YYYY-MM-DD>] [<folder>]
 // The folder defaults to the one this tool sits in. The README's "**As of:**" line says what

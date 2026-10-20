@@ -1,5 +1,5 @@
 # Ask agent log
-<!-- Append-only. One line per actioned queue note: - actioned YYYY-MM-DD HH:MM | ID | queued YYYY-MM-DD HH:MM | the note | what the agent did -->
+<!-- Append-only. One line per actioned agent request: - actioned YYYY-MM-DD HH:MM | ID | queued YYYY-MM-DD HH:MM | the request | what the agent did -->
 
 - 2026-09-29 08:41 | T-0013 | queued 2026-09-28 17:15 | Add sub-tasks for the KPI pack and the circulation deadline | Added 2 sub-tasks to T-0013
 - 2026-10-02 09:05 | T-0007 | queued 2026-10-01 16:48 | Draft a polite chaser to Desmond about the 8D – it's promised for 16 Oct but I want an interim update | Wrote drafts/T-0007-scar-031-chaser.md (not sent)

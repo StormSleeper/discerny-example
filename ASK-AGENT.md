@@ -1,5 +1,5 @@
 # Ask agent queue
-<!-- One line per pending note: - ID | YYYY-MM-DD HH:MM | text. Written by discerny.html. The agent removes a line once it is actioned (skill: discern-ask-agent) and records it in ASK-AGENT-LOG.md. -->
+<!-- The agent queue. One line per agent request: - ID | YYYY-MM-DD HH:MM | text. Written by discerny.html. The agent removes a line once it is actioned (skill: discern-ask-agent) and records it in ASK-AGENT-LOG.md. -->
 
 - T-0025 | 2026-10-08 18:02 | Draft an acknowledgement to Little Lantern Theatre for CC-2026-088. ⏎ Apologise, confirm the clamp is coming back to us for inspection, and offer a replacement clamp set while we investigate. Under 150 words.
 - T-0011 | 2026-10-08 18:10 | Split this into sub-tasks: review the load-test section, review the clamp slip results, sign the approval page.
