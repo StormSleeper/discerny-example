@@ -1,6 +1,6 @@
 # Reference
 
-Stable links and contacts. All data is fictional (Pennywhistle Puppet Works Ltd); `.example` addresses and 01632 960xxx numbers are reserved for fiction.
+Web addresses, people's details and other things to look up. All data is fictional (Pennywhistle Puppet Works Ltd); `.example` addresses and 01632 960xxx numbers are reserved for fiction.
 
 ## Quality system
 - [Quality manual QM-001 rev 12](https://pennywhistle.sharepoint.example/sites/QA/Manual/QM-001-rev12.pdf)
@@ -24,7 +24,7 @@ Stable links and contacts. All data is fictional (Pennywhistle Puppet Works Ltd)
 | QP-16 | Design and development – products and course materials |
 
 ## Certification and standards
-- ISO 9001:2015 – certificate NC-QMS-40217, Northgate Certification, expires 2026-12-31
+- ISO 9001:2015 – certificate NC-QMS-40217, Northgate Certification, expires 2027-01-07
 - EN 71-1, -2, -3 – toy safety (all hand puppets); UKCA and CE technical files held per SKU
 
 ## External contacts

@@ -1,7 +1,7 @@
 # Draft – not sent
 
 - For: T-0007 (SCAR-031)
-- Requested: 2026-10-01 16:48 via Ask agent
+- Requested: 2026-10-08 16:48 via Ask agent
 - Channel: email
 - To: Desmond Achebe <desmond.achebe@feltcraft.example>
 - Cc: Tomasz Kowalczyk <tomasz.kowalczyk@pennywhistle.example>
@@ -11,7 +11,7 @@
 
 Hi Desmond,
 
-Thanks again for agreeing to the 8D on SCAR-031 by 16 October.
+Thanks again for agreeing to the 8D on SCAR-031 by 23 October.
 
 Before then, could you send a short interim update? In particular:
 
