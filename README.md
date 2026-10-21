@@ -6,7 +6,7 @@ The Example for [Discerny](https://github.com/StormSleeper/discerny-app), a task
 
 ## What's in it
 
-**As of:** Monday 12 October 2026. Everything is dated as if that day were today; see [Moving the dates on](#moving-the-dates-on).
+**As of:** Monday 19 October 2026. Everything is dated as if that day were today; see [Moving the dates on](#moving-the-dates-on).
 
 A data folder in the format the app expects, in the middle of a busy few weeks:
 

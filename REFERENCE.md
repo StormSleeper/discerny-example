@@ -24,7 +24,7 @@ Web addresses, people's details and other things to look up. All data is fiction
 | QP-16 | Design and development – products and course materials |
 
 ## Certification and standards
-- ISO 9001:2015 – certificate NC-QMS-40217, Northgate Certification, expires 2026-12-31
+- ISO 9001:2015 – certificate NC-QMS-40217, Northgate Certification, expires 2027-01-07
 - EN 71-1, -2, -3 – toy safety (all hand puppets); UKCA and CE technical files held per SKU
 
 ## External contacts

@@ -1,10 +1,10 @@
 # Tasks
 <!-- next-id: 32 -->
 
-- [ ] T-0001 Close out CAPA-2026-014: eyes detaching on Fox hand puppet {ty:Task; who:Meera Ilangovan; prj:PRJ-0001; tg:CAPA & Complaints,Product Safety; urg:week; p:1; due:2026-10-14; st:In progress; asg:2026-08-03 09:12}
-  - src: Email "CAPA-2026-014 – button eyes detaching (Fox)" from Meera Ilangovan (3 Aug)
+- [ ] T-0001 Close out CAPA-2026-014: eyes detaching on Fox hand puppet {ty:Task; who:Meera Ilangovan; prj:PRJ-0001; tg:CAPA & Complaints,Product Safety; urg:week; p:1; due:2026-10-21; st:In progress; asg:2026-08-10 09:12}
+  - src: Email "CAPA-2026-014 – button eyes detaching (Fox)" from Meera Ilangovan (10 Aug)
   - note: Two returns via Hedgerow Toys reported a Fox eye pulling free under light tension. Root cause was thread-tension drift on sewing station 4; Fox and Badger switched to safety-lock eyes from batch FX-2608.
-  - note: Effectiveness check is the last open step. The CAPA must be closed before the ISO 9001 audit on 17 Nov.
+  - note: Effectiveness check is the last open step. The CAPA must be closed before the ISO 9001 audit on 24 Nov.
   - link: [CAPA log](https://pennywhistle.sharepoint.example/sites/QA/CAPA-Log.xlsx)
   - ref: mail|CAPA-2026-014 – button eyes detaching (Fox)
   - my: Ask Meera whether the existing EN 71-1 tension fixture fits the new safety-lock eyes or needs a new jaw.
@@ -12,17 +12,17 @@
   - [x] Change Fox and Badger to safety-lock eyes (ECN-0412)
   - [ ] Effectiveness check: tension-test 32 units from batch FX-2611
   - [ ] Close the CAPA in the log and tell Lena Brandt
-- [ ] T-0003 ISO 9001 recertification audit – opening meeting {ty:Meeting; who:Martin Gale; prj:PRJ-0003; tg:Audit & Certification; urg:later; p:1; due:2026-11-17 09:30; asg:2026-08-12 14:20}
-  - src: Email "Pennywhistle recertification audit – plan and dates" from Martin Gale (12 Aug)
-  - note: Three-day recertification audit, 17–19 Nov, covering Puppet Studio, Stageworks and Academy course development. Opening meeting 09:30 in the Loft meeting room; the MD and all heads of department are expected.
+- [ ] T-0003 ISO 9001 recertification audit – opening meeting {ty:Meeting; who:Martin Gale; prj:PRJ-0003; tg:Audit & Certification; urg:later; p:1; due:2026-11-24 09:30; asg:2026-08-19 14:20}
+  - src: Email "Pennywhistle recertification audit – plan and dates" from Martin Gale (19 Aug)
+  - note: Three-day recertification audit, 24–26 Nov, covering Puppet Studio, Stageworks and Academy course development. Opening meeting 09:30 in the Loft meeting room; the MD and all heads of department are expected.
   - link: [Audit plan (Northgate)](https://pennywhistle.sharepoint.example/sites/QA/Audits/2026-Recert/Audit-Plan.pdf)
   - ref: mail|Pennywhistle recertification audit – plan and dates
-  - ref: cal|2026-11-17|pennywhistle recertification audit – plan and dates
+  - ref: cal|2026-11-24|pennywhistle recertification audit – plan and dates
   - [x] Confirm dates with Oliver
   - [ ] Book the Loft meeting room for all three days
   - [ ] Name a guide for each area being audited
-- [ ] T-0005 Run the Q4 internal audit programme {ty:Process; who:Tomasz Kowalczyk; prj:PRJ-0003; tg:Audit & Certification; urg:soon; p:1; due:2026-10-30; st:In progress; asg:2026-08-17 10:00}
-  - src: Email "Internal audit schedule Q4 2026" from Tomasz Kowalczyk (17 Aug)
+- [ ] T-0005 Run the Q4 internal audit programme {ty:Process; who:Tomasz Kowalczyk; prj:PRJ-0003; tg:Audit & Certification; urg:soon; p:1; due:2026-11-06; st:In progress; asg:2026-08-24 10:00}
+  - src: Email "Internal audit schedule Q4 2026" from Tomasz Kowalczyk (24 Aug)
   - note: Four audits must be finished, with findings raised, before the recertification audit. No auditor audits their own area.
   - link: [Internal audit schedule](https://pennywhistle.sharepoint.example/sites/QA/Audits/Internal-Audit-Schedule-2026.xlsx)
   - ref: mail|Internal audit schedule Q4 2026
@@ -30,99 +30,99 @@
   - [x] 8.4 Control of external providers – Meera
   - [ ] 8.5 Production – Stageworks assembly – Tomasz
   - [ ] 8.3 Design and development – Academy course packs – Meera
-- [ ] T-0007 Waiting: 8D response on Russet felt colour variation (SCAR-031) from Desmond Achebe {ty:Task; who:Desmond Achebe; prj:PRJ-0001; tg:Supplier Quality; urg:soon; p:2; due:2026-10-16; st:Waiting; asg:2026-08-26 11:05}
-  - src: Email "SCAR-031 – colour variation in Russet felt, lot RF-2207" sent to desmond.achebe@feltcraft.example (26 Aug)
+- [ ] T-0007 Waiting: 8D response on Russet felt colour variation (SCAR-031) from Desmond Achebe {ty:Task; who:Desmond Achebe; prj:PRJ-0001; tg:Supplier Quality; urg:soon; p:2; due:2026-10-23; st:Waiting; asg:2026-09-02 11:05}
+  - src: Email "SCAR-031 – colour variation in Russet felt, lot RF-2207" sent to desmond.achebe@feltcraft.example (2 Sep)
   - ref: mail|SCAR-031 – colour variation in Russet felt, lot RF-2207
-  - note: Three rolls from lot RF-2207 were visibly lighter than the approved colour standard; 140 Fox bodies are quarantined. Feltcraft agreed to send an 8D by 16 Oct.
+  - note: Three rolls from lot RF-2207 were visibly lighter than the approved colour standard; 140 Fox bodies are quarantined. Feltcraft agreed to send an 8D by 23 Oct.
   - my: If the 8D blames the new dye recipe, ask how their change notification process missed it.
-- [ ] T-0009 Book recalibration of the stage load test rig {ty:Task; who:Declan Moss; prj:PRJ-0002; tg:Calibration & Test; urg:today; p:1; due:2026-10-09; asg:2026-09-10 13:30}
-  - src: Email "Load rig calibration certificate expiring 30 Sep" from Declan Moss (10 Sep)
-  - note: The load-cell calibration certificate expired on 30 Sep. Mk4 rev B load tests were run on 1–3 Oct, so those results need an impact assessment before DVR-MK4-002 can be approved.
-  - ref: mail|Load rig calibration certificate expiring 30 Sep
+- [ ] T-0009 Book recalibration of the stage load test rig {ty:Task; who:Declan Moss; prj:PRJ-0002; tg:Calibration & Test; urg:today; p:1; due:2026-10-16; asg:2026-09-17 13:30}
+  - src: Email "Load rig calibration certificate expiring 7 Oct" from Declan Moss (17 Sep)
+  - note: The load-cell calibration certificate expired on 7 Oct. Mk4 rev B load tests were run on 8–10 Oct, so those results need an impact assessment before DVR-MK4-002 can be approved.
+  - ref: mail|Load rig calibration certificate expiring 7 Oct
   - [ ] Get a quote and earliest date from Calderbrook Calibration
   - [ ] Raise an NCR for tests run after expiry and assess the impact
-- [ ] T-0011 Approve Mk4 design verification report DVR-MK4-002 {ty:Document; who:Anya Volkova; prj:PRJ-0002; tg:Design Verification; urg:week; p:1; due:2026-10-16; dep:T-0009; asg:2026-09-18 16:45}
-  - src: Email "DVR-MK4-002 ready for QA review" from Anya Volkova (18 Sep)
-  - note: Covers static load, racking and leg-clamp slip tests on the Mk4 deck and frame. Rev B adds the load tests re-run on 1–3 Oct. QA approval is needed before first-article inspection.
+- [ ] T-0011 Approve Mk4 design verification report DVR-MK4-002 {ty:Document; who:Anya Volkova; prj:PRJ-0002; tg:Design Verification; urg:week; p:1; due:2026-10-23; dep:T-0009; asg:2026-09-25 16:45}
+  - src: Email "DVR-MK4-002 ready for QA review" from Anya Volkova (25 Sep)
+  - note: Covers static load, racking and leg-clamp slip tests on the Mk4 deck and frame. Rev B adds the load tests re-run on 8–10 Oct. QA approval is needed before first-article inspection.
   - link: [DVR-MK4-002 rev B](https://pennywhistle.sharepoint.example/sites/Stageworks/Mk4/DVR-MK4-002-revB.pdf)
   - ref: mail|DVR-MK4-002 ready for QA review
-- [ ] T-0012 Roll out goods-in inspection procedure QP-08 rev F {ty:Process; who:Kwame Mensah; tg:Supplier Quality,Document Control; urg:soon; p:2; st:In progress; asg:2026-09-22 10:15}
-  - src: Teams chat "QA team" with Kwame Mensah (22 Sep)
+- [ ] T-0012 Roll out goods-in inspection procedure QP-08 rev F {ty:Process; who:Kwame Mensah; tg:Supplier Quality,Document Control; urg:soon; p:2; st:In progress; asg:2026-09-29 10:15}
+  - src: Teams chat "QA team" with Kwame Mensah (29 Sep)
   - note: Rev F moves felt, foam and timber to a risk-based sampling plan and adds a colour check against approved standards (a SCAR-031 action).
   - link: [QP-08 rev F](https://pennywhistle.sharepoint.example/sites/QA/Procedures/QP-08-Goods-In-Inspection-revF.docx)
   - ref: teams|19:c40e9a|1758532500211
   - [x] Approve rev F
   - [ ] Train the goods-in team (Kwame plus two temps)
   - [ ] Load the new sampling plan into the Goods-In Inspection App
-- [ ] T-0013 Q3 2026 management review {ty:Meeting; who:Oliver Pemberton; prj:PRJ-0003; tg:Audit & Certification; urg:soon; p:1; due:2026-10-22 10:00; asg:2026-09-24 09:00}
-  - src: Email "Management review – Q3 2026" from Oliver Pemberton (24 Sep)
+- [ ] T-0013 Q3 2026 management review {ty:Meeting; who:Oliver Pemberton; prj:PRJ-0003; tg:Audit & Certification; urg:soon; p:1; due:2026-10-29 10:00; asg:2026-10-01 09:00}
+  - src: Email "Management review – Q3 2026" from Oliver Pemberton (1 Oct)
   - note: The auditors will ask for these minutes. Inputs: complaints, CAPA ageing, supplier performance, internal audit results and quality objectives.
   - ref: mail|Management review – Q3 2026
-  - ref: cal|2026-10-22|management review – q3 2026
+  - ref: cal|2026-10-29|management review – q3 2026
   - [ ] Compile the KPI pack (complaints, CAPA ageing, supplier OTIF and PPM, audit findings)
-  - [ ] Circulate the pack by Mon 19 Oct
-- [ ] T-0014 Set up a QA review gate for Academy course materials {ty:Process; who:Marguerite Duval; tg:Training & Academy,Document Control; urg:later; p:2; asg:2026-09-25 11:30}
-  - src: Teams chat "Academy QA" with Marguerite Duval (25 Sep)
+  - [ ] Circulate the pack by Mon 26 Oct
+- [ ] T-0014 Set up a QA review gate for Academy course materials {ty:Process; who:Marguerite Duval; tg:Training & Academy,Document Control; urg:later; p:2; asg:2026-10-02 11:30}
+  - src: Teams chat "Academy QA" with Marguerite Duval (2 Oct)
   - note: The Academy wants a QA sign-off step before new course packs go live on the LMS. Checklist to cover technical accuracy, workshop safety notes (hot glue, craft knives, rigging), accessibility and version control.
   - ref: teams|19:a8c3f1|1758796200734
   - my: Pilot it on the rod-puppet module, which launches in January.
-- [ ] T-0015 Migrate work instructions to QualiTrack eQMS (batch 2) {ty:Task; who:Ren Hayashida; tg:Document Control; urg:later; p:2; st:Waiting; asg:2026-09-28 14:05}
-  - src: Email "QualiTrack – batch 2 import template" from Ren Hayashida (28 Sep)
+- [ ] T-0015 Migrate work instructions to QualiTrack eQMS (batch 2) {ty:Task; who:Ren Hayashida; tg:Document Control; urg:later; p:2; st:Waiting; asg:2026-10-05 14:05}
+  - src: Email "QualiTrack – batch 2 import template" from Ren Hayashida (5 Oct)
   - note: 64 work instructions from the SharePoint library. Waiting on the vendor's corrected import template, which keeps revision history.
   - ref: mail|QualiTrack – batch 2 import template
-- [ ] T-0017 Feltcraft moving fabric dyeing to a new site from November {ty:FYI; who:Desmond Achebe; tg:Supplier Quality; urg:fyi; p:3; asg:2026-10-01 11:48}
-  - src: Email "Change notification – dyehouse relocation" from Desmond Achebe (1 Oct)
-  - note: Feltcraft moves dyeing from Bradford to a new site in Leicester from 2 Nov. Under QP-07 a site change means requalifying the approved colour standards.
+- [ ] T-0017 Feltcraft moving fabric dyeing to a new site from November {ty:FYI; who:Desmond Achebe; tg:Supplier Quality; urg:fyi; p:3; asg:2026-10-08 11:48}
+  - src: Email "Change notification – dyehouse relocation" from Desmond Achebe (8 Oct)
+  - note: Feltcraft moves dyeing from Bradford to a new site in Leicester from 9 Nov. Under QP-07 a site change means requalifying the approved colour standards.
   - ref: mail|Change notification – dyehouse relocation
-- [ ] T-0018 1:1 with Oliver {ty:Meeting; who:Oliver Pemberton; tg:Admin; urg:week; p:2; due:2026-10-13 16:00; asg:2026-10-02 08:30}
-  - src: Calendar invite "Imogen / Oliver 1:1" from Oliver Pemberton (2 Oct)
+- [ ] T-0018 1:1 with Oliver {ty:Meeting; who:Oliver Pemberton; tg:Admin; urg:week; p:2; due:2026-10-20 16:00; asg:2026-10-09 08:30}
+  - src: Calendar invite "Imogen / Oliver 1:1" from Oliver Pemberton (9 Oct)
   - ref: mail|Imogen / Oliver 1:1
-  - ref: cal|2026-10-13|imogen / oliver 1:1
+  - ref: cal|2026-10-20|imogen / oliver 1:1
   - my: Make the case for a second goods-in inspector.
   - my: Ask about budget for external toy-safety training for the Studio team.
-- [ ] T-0019 Read Brightmark EN 71 test report for Fable Range wave 1 {ty:Document; who:Helena Sørensen; prj:PRJ-0001; tg:Product Safety; urg:week; p:1; due:2026-10-13; asg:2026-10-02 17:20}
-  - src: Email "Fable Range wave 1 – EN 71-1/-2/-3 results" from Helena Sørensen (2 Oct)
+- [ ] T-0019 Read Brightmark EN 71 test report for Fable Range wave 1 {ty:Document; who:Helena Sørensen; prj:PRJ-0001; tg:Product Safety; urg:week; p:1; due:2026-10-20; asg:2026-10-09 17:20}
+  - src: Email "Fable Range wave 1 – EN 71-1/-2/-3 results" from Helena Sørensen (9 Oct)
   - note: 9 of 11 SKUs pass. Owl (ear tufts) and Dragon (felt spines) failed the EN 71-1 small-parts check after tension testing. A QA view on redesign versus retest is needed before the go/no-go review.
   - link: [Test report BTL-26-4471](https://pennywhistle.sharepoint.example/sites/QA/Fable/BTL-26-4471.pdf)
   - ref: mail|Fable Range wave 1 – EN 71-1/-2/-3 results
-- [ ] T-0020 Fable Range go/no-go review {ty:Meeting; who:Hattie Lindqvist; prj:PRJ-0001; tg:Product Safety; urg:soon; p:1; due:2026-10-21 14:00; dep:T-0019; asg:2026-10-05 09:10}
-  - src: Email "Fable Range 2027 – go/no-go" from Hattie Lindqvist (5 Oct)
+- [ ] T-0020 Fable Range go/no-go review {ty:Meeting; who:Hattie Lindqvist; prj:PRJ-0001; tg:Product Safety; urg:soon; p:1; due:2026-10-28 14:00; dep:T-0019; asg:2026-10-12 09:10}
+  - src: Email "Fable Range 2027 – go/no-go" from Hattie Lindqvist (12 Oct)
   - note: Decide whether wave 1 launches with 9 SKUs or waits for Owl and Dragon. QA's position on the test report is needed beforehand.
   - ref: mail|Fable Range 2027 – go/no-go
   - ref: calid|AAMkAGI-fable-gonogo-1021
-  - ref: cal|2026-10-21|fable range 2027 – go/no-go
-- [ ] T-0021 Review draft "Safe use of portable stages" chapter for the Academy {ty:Document; who:Nell Ashdown; prj:PRJ-0002; tg:Training & Academy,Product Safety; urg:soon; p:2; due:2026-10-23; asg:2026-10-05 10:20}
-  - src: Email "Draft: Safe use of portable stages (course workbook ch. 4)" from Nell Ashdown (5 Oct)
+  - ref: cal|2026-10-28|fable range 2027 – go/no-go
+- [ ] T-0021 Review draft "Safe use of portable stages" chapter for the Academy {ty:Document; who:Nell Ashdown; prj:PRJ-0002; tg:Training & Academy,Product Safety; urg:soon; p:2; due:2026-10-30; asg:2026-10-12 10:20}
+  - src: Email "Draft: Safe use of portable stages (course workbook ch. 4)" from Nell Ashdown (12 Oct)
   - note: Chapter for the Puppet Theatre Production course, reused in the Mk4 user pack. Check that load ratings, set-up sequence and leg-clamp torque match DVR-MK4-002.
   - link: [Draft chapter 4 v0.3](https://pennywhistle.sharepoint.example/sites/Academy/Drafts/Safe-Use-Portable-Stages-v0.3.docx)
   - ref: mail|Draft: Safe use of portable stages (course workbook ch. 4)
   - ref: teams|19:b77d02|*
-- [ ] T-0022 Waiting: retest quote for Owl and Dragon from Helena Sørensen {ty:Task; who:Helena Sørensen; prj:PRJ-0001; tg:Product Safety; urg:soon; p:2; st:Waiting; asg:2026-10-05 16:25}
-  - src: Email "Fable Range – retest of Owl and Dragon" sent to helena.sorensen@brightmark.example (5 Oct)
+- [ ] T-0022 Waiting: retest quote for Owl and Dragon from Helena Sørensen {ty:Task; who:Helena Sørensen; prj:PRJ-0001; tg:Product Safety; urg:soon; p:2; st:Waiting; asg:2026-10-12 16:25}
+  - src: Email "Fable Range – retest of Owl and Dragon" sent to helena.sorensen@brightmark.example (12 Oct)
   - ref: mail|Fable Range – retest of Owl and Dragon
-  - note: Asked for price and lead time to retest both SKUs once the fixes are in, ahead of the go/no-go on 21 Oct; no reply seen as of 2026-10-08
-- [ ] T-0023 Send Martin Gale the pre-audit document set {ty:Task; who:Martin Gale; prj:PRJ-0003; tg:Audit & Certification; urg:week; p:2; due:2026-10-16; asg:2026-10-06 17:10}
-  - src: Email "Recertification audit – pre-audit information" sent to martin.gale@northgate-cert.example (6 Oct)
+  - note: Asked for price and lead time to retest both SKUs once the fixes are in, ahead of the go/no-go on 28 Oct; no reply seen as of 2026-10-15
+- [ ] T-0023 Send Martin Gale the pre-audit document set {ty:Task; who:Martin Gale; prj:PRJ-0003; tg:Audit & Certification; urg:week; p:2; due:2026-10-23; asg:2026-10-13 17:10}
+  - src: Email "Recertification audit – pre-audit information" sent to martin.gale@northgate-cert.example (13 Oct)
   - ref: mail|Recertification audit – pre-audit information
-  - note: Promised the quality manual (rev 12), process map, internal audit schedule and the Q2 management review minutes by Fri 16 Oct.
-- [ ] T-0024 Academy LMS upgrade on 20 Oct changes certificate templates {ty:FYI; who:Ravi Chandrasekar; tg:Training & Academy; urg:fyi; p:3; asg:2026-10-07 09:45}
-  - src: Email "LMS upgrade 20 Oct – what's changing" from Ravi Chandrasekar (7 Oct)
+  - note: Promised the quality manual (rev 12), process map, internal audit schedule and the Q2 management review minutes by Fri 23 Oct.
+- [ ] T-0024 Academy LMS upgrade on 27 Oct changes certificate templates {ty:FYI; who:Ravi Chandrasekar; tg:Training & Academy; urg:fyi; p:3; asg:2026-10-14 09:45}
+  - src: Email "LMS upgrade 27 Oct – what's changing" from Ravi Chandrasekar (14 Oct)
   - note: Course completion certificates move to a new layout. Controlled template TF-22 will need a revision once the layout is final.
-  - ref: mail|LMS upgrade 20 Oct – what's changing
-- [ ] T-0025 Acknowledge complaint CC-2026-088: Mk3 stage leg clamp slipping {ty:Task; who:Lena Brandt; tg:CAPA & Complaints; urg:today; p:1; due:2026-10-09; asg:2026-10-07 15:40}
-  - src: Email "Complaint CC-2026-088 – Little Lantern Theatre, Mk3 leg clamp" from Lena Brandt (7 Oct)
+  - ref: mail|LMS upgrade 27 Oct – what's changing
+- [ ] T-0025 Acknowledge complaint CC-2026-088: Mk3 stage leg clamp slipping {ty:Task; who:Lena Brandt; tg:CAPA & Complaints; urg:today; p:1; due:2026-10-16; asg:2026-10-14 15:40}
+  - src: Email "Complaint CC-2026-088 – Little Lantern Theatre, Mk3 leg clamp" from Lena Brandt (14 Oct)
   - note: A rear leg clamp on a Mk3 stage slipped during a school performance; the deck dropped about 40 mm and nobody was hurt. QP-12 requires acknowledgement within two working days, so today.
-  - note: 8 Oct: Lena forwarded the customer's photos; the clamp is on its way back for inspection.
+  - note: 15 Oct: Lena forwarded the customer's photos; the clamp is on its way back for inspection.
   - ref: mail|Complaint CC-2026-088 – Little Lantern Theatre, Mk3 leg clamp
   - my: Check whether other Mk3 units with clamps from the same batch went to schools.
-- [ ] T-0026 Monthly calibration register check – October {ty:Process; who:Gus Whitfield; tg:Calibration & Test; urg:soon; p:2; due:2026-10-23; asg:2026-10-08 08:00}
-  - src: Added 2026-10-08
+- [ ] T-0026 Monthly calibration register check – October {ty:Process; who:Gus Whitfield; tg:Calibration & Test; urg:soon; p:2; due:2026-10-30; asg:2026-10-15 08:00}
+  - src: Added 2026-10-15
   - note: Check every instrument on the register is in date, labelled and traceable.
   - [ ] Torque drivers and tension gauges (Puppet Studio)
   - [ ] Stage load test rig – see T-0009
   - [ ] Tape measures and calipers (Stageworks)
-- [ ] T-0031 Weekly QA sync {ty:Meeting; who:Meera Ilangovan; tg:Admin; urg:week; p:3; due:2026-10-15 09:00; asg:2026-10-09 08:30}
-  - src: Email "Weekly QA sync" from Meera Ilangovan (9 Oct)
+- [ ] T-0031 Weekly QA sync {ty:Meeting; who:Meera Ilangovan; tg:Admin; urg:week; p:3; due:2026-10-22 09:00; asg:2026-10-16 08:30}
+  - src: Email "Weekly QA sync" from Meera Ilangovan (16 Oct)
   - note: Standing Thursday check-in with the QA managers: open CAPAs, supplier issues, audit prep.
   - ref: mail|Weekly QA sync
-  - ref: cal|2026-10-15|weekly qa sync
+  - ref: cal|2026-10-22|weekly qa sync
