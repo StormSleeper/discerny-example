@@ -13,7 +13,6 @@
 - watermark: 2026-10-08T15:05:41Z
 - overlap: PT2H
 - exclude_subject:
-  - ^(Accepted|Tentative):
   - (?i)newsletter
   - (?i)^automatic reply
   - (?i)out of office
