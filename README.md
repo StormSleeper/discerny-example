@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/StormSleeper/discerny-app"><img src=".github/discerny-logo.png" width="160" alt="Discerny logo: a pair of binoculars with eyes, holding a checklist and a folder of notes"></a>
+</p>
+
 # Discerny Example
 
 The Example for [Discerny](https://github.com/StormSleeper/discerny-app), a task tracker and knowledge base you run together with an AI agent. Use it to try Discerny before you put your own work into it.
