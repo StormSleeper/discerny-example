@@ -38,6 +38,8 @@
   - ref: mail|SCAR-031 – colour variation in Russet felt, lot RF-2207
   - comment: {author: user}
     If the 8D blames the new dye recipe, ask how their change notification process missed it.
+  - comment: {added-datetime: 2026-10-19 08:42; author: email; acknowledged: no}
+    Desmond Achebe replied: the 8D for SCAR-031 is drafted and he expects to send it by Friday; root cause traced to a dye lot change at the felt mill.
 - [ ] T-0009 Book recalibration of the stage load test rig {ty:Task; who:Declan Moss; prj:PRJ-0002; tg:Calibration & Test; urg:today; p:1; due:2026-10-16; asg:2026-09-17 13:30}
   - src: Email "Load rig calibration certificate expiring 7 Oct" from Declan Moss (17 Sep)
   - description: The load-cell calibration certificate expired on 7 Oct. Mk4 rev B load tests were run on 8–10 Oct, so those results need an impact assessment before DVR-MK4-002 can be approved.
