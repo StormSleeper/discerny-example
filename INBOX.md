@@ -1,5 +1,5 @@
 # Inbox
-<!-- Proposals for new items from the discern-* source skills, waiting for the user to clarify them. Accept moves an item to TASKS.md; Dismiss remembers its message in DISMISSED.md. -->
+<!-- Proposals from the discern-* source skills, waiting for the user to clarify them. New items come first: Accept moves an item to TASKS.md; Dismiss remembers its message in DISMISSED.md. Changes to records follow under "## Changes", one line each with a "- why:" sub-line: a Relationship, a new person or a new email address, which the user answers Yes or No. -->
 
 - [ ] T-0027 Supplier OTIF and PPM dashboard now live in Loomwise {ty:FYI; who:Callum Fraser; tg:Supplier Quality; urg:fyi; p:3; asg:2026-10-15 11:15}
   - src: Email "Supplier performance dashboard – now live" from Callum Fraser (15 Oct)
@@ -19,3 +19,13 @@
   - src: Email "Complaints data for management review" sent to lena.brandt@pennywhistle.example (14 Oct)
   - ref: mail|Complaints data for management review
   - note: Asked for the Q3 complaints export, split by product and category, for the management review pack; no reply seen as of 2026-10-15
+
+## Changes
+- Relate T-0030 and T-0013 {kind: related; source: outlook-mail; received-datetime: 2026-10-15 10:41}
+  - why: Lena Brandt says the complaints export is for the management review pack.
+- New person Priya Natarajan {email: priya.natarajan@feltcraft.example; company: Feltcraft Textiles; title: Dyehouse Manager; items: T-0017; source: outlook-mail; received-datetime: 2026-10-15 11:02}
+  - why: Copied on Desmond Achebe's mail about the new dyeing site, signing as its Dyehouse Manager.
+- Add email ren.hayashida@pennywhistle.example to Ren Hayashida (P-0017) {source: outlook-mail; received-datetime: 2026-10-15 09:30}
+  - why: Wrote about the Academy LMS upgrade from this address; PEOPLE.md has no email for Ren.
+- Relate T-0021 and T-0014 {kind: related; source: teams-chat; received-datetime: 2026-10-15 15:05}
+  - why: Nell Ashdown asks for the chapter to go through the new QA review gate.
