@@ -5,7 +5,6 @@
 - timezone: Europe/London
 - priority_people: P-0007, P-0010
 - personal_domains: gmail.com, outlook.com, hotmail.com, icloud.com, yahoo.com, homemail.example
-- apply_task_updates: false
 - page_cap: 10
 - log_runs: true
 
