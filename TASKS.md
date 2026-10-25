@@ -28,6 +28,8 @@
   - description: Four audits must be finished, with findings raised, before the recertification audit. No auditor audits their own area.
   - link: [Internal audit schedule](https://pennywhistle.sharepoint.example/sites/QA/Audits/Internal-Audit-Schedule-2026.xlsx)
   - ref: mail|Internal audit schedule Q4 2026
+  - comment: {added-datetime: 2026-10-16 16:20; author: email; acknowledged: no; changed: due; from: 2026-10-30; to: 2026-11-06}
+    Tomasz Kowalczyk says the Stageworks assembly audit moves a week, to fit around the Mk4 first-article inspection, so the programme finishes a week later.
   - [x] 7.5 Documented information – Tomasz (2 minor findings)
   - [x] 8.4 Control of external providers – Meera
   - [ ] 8.5 Production – Stageworks assembly – Tomasz
@@ -108,6 +110,8 @@
   - src: Email "Fable Range – retest of Owl and Dragon" sent to helena.sorensen@brightmark.example (12 Oct)
   - description: Asked for price and lead time to retest both SKUs once the fixes are in, ahead of the go/no-go on 28 Oct; no reply seen as of 2026-10-15
   - ref: mail|Fable Range – retest of Owl and Dragon
+  - comment: {added-datetime: 2026-10-16 17:10; author: email; acknowledged: no; suggests: done}
+    Helena Sørensen sent the quote: £1,840 to retest Owl and Dragon, with results ten working days after the samples arrive.
 - [ ] T-0023 Send Martin Gale the pre-audit document set {ty:Task; who:Martin Gale; prj:PRJ-0003; tg:Audit & Certification; urg:week; p:2; due:2026-10-23; asg:2026-10-13 17:10}
   - src: Email "Recertification audit – pre-audit information" sent to martin.gale@northgate-cert.example (13 Oct)
   - description: Promised the quality manual (rev 12), process map, internal audit schedule and the Q2 management review minutes by Fri 23 Oct.

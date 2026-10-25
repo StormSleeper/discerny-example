@@ -1,5 +1,5 @@
 # Inbox
-<!-- Proposals from the discern-* source skills, waiting for the user to clarify them. New items come first: Accept moves an item to TASKS.md; Dismiss remembers its message in DISMISSED.md. Changes to records follow under "## Changes", one line each with a "- why:" sub-line: a Relationship, a new person or a new email address, which the user answers Yes or No. -->
+<!-- Proposals from the discern-* source skills, waiting for the user to clarify them. New items come first: Accept moves an item to TASKS.md; Dismiss remembers its message in DISMISSED.md. Changes to records follow under "## Changes", one line each with a "- why:" sub-line: a Relationship, a new person, a new email address or a Priority person, which the user answers Yes or No. -->
 
 - [ ] T-0027 Supplier OTIF and PPM dashboard now live in Loomwise {ty:FYI; who:Callum Fraser; tg:Supplier Quality; urg:fyi; p:3; asg:2026-10-15 11:15}
   - src: Email "Supplier performance dashboard – now live" from Callum Fraser (15 Oct)
@@ -29,3 +29,5 @@
   - why: Wrote about the Academy LMS upgrade from this address; PEOPLE.md has no email for Ren.
 - Relate T-0021 and T-0014 {kind: related; source: teams-chat; received-datetime: 2026-10-15 15:05}
   - why: Nell Ashdown asks for the chapter to go through the new QA review gate.
+- Make Nell Ashdown (P-0015) a Priority person {source: teams-chat; received-datetime: 2026-10-15 15:05}
+  - why: Sent three actionable messages this week about the Academy course packs.
