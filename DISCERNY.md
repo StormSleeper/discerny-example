@@ -1,5 +1,5 @@
 # Discerny data folder
 
-<!-- format: 0.2.0.1 -->
+<!-- format: 0.3.0.8 -->
 
 This folder holds one person's Discerny data, a task tracker kept as Markdown files whose app lives at https://github.com/StormSleeper/discerny-app.
