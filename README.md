@@ -16,7 +16,7 @@ A data folder in the format the app expects, in the middle of a busy few weeks:
 
 - **Items**: 21 open in `TASKS.md`, 4 waiting in the Inbox (`INBOX.md`) and 4 done (`DONE.md`): tasks, meetings, FYIs and things Imogen is waiting for, with due dates, projects, dependencies and sub-tasks.
 - **Records**: 22 people in `PEOPLE.md`, 3 projects in `PROJECTS.md` and 5 systems in `SYSTEMS.md`, with the relationships between them in `RELATIONSHIPS.md`.
-- **The rest of a lived-in folder**: four Agent requests waiting in `ASK-AGENT.md`, a draft message in `drafts/`, source-skill settings in `SOURCES.md`, and the settings you can change by hand in `SETTINGS.toml`.
+- **The rest of a lived-in folder**: four Agent requests waiting in `ASK-AGENT.md`, a draft message in `drafts/`, source-skill settings in `SOURCES.md`, the settings you can change by hand in `SETTINGS.toml`, and a log of Imogen's dealings with people in `INTERACTIONS.md`, inferred from her Items when the folder was upgraded.
 
 The app's README explains each file.
 

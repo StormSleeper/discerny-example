@@ -28,7 +28,7 @@
   - description: Four audits must be finished, with findings raised, before the recertification audit. No auditor audits their own area.
   - link: [Internal audit schedule](https://pennywhistle.sharepoint.example/sites/QA/Audits/Internal-Audit-Schedule-2026.xlsx)
   - source-key: mail|Internal audit schedule Q4 2026
-  - comment: {added-datetime: 2026-10-16 16:20; author: email; acknowledged: no; changed: due-date; from: 2026-10-30; to: 2026-11-06}
+  - comment: {added-datetime: 2026-10-16 16:20; author: email; acknowledged: no; changed: due-date; from: 2026-10-30; to: 2026-11-06; sender: P-0004}
     Tomasz Kowalczyk says the Stageworks assembly audit moves a week, to fit around the Mk4 first-article inspection, so the programme finishes a week later.
   - [x] 7.5 Documented information – Tomasz (2 minor findings)
   - [x] 8.4 Control of external providers – Meera
@@ -40,7 +40,7 @@
   - source-key: mail|SCAR-031 – colour variation in Russet felt, lot RF-2207
   - comment: {author: user}
     If the 8D blames the new dye recipe, ask how their change notification process missed it.
-  - comment: {added-datetime: 2026-10-19 08:42; author: email; acknowledged: no}
+  - comment: {added-datetime: 2026-10-19 08:42; author: email; acknowledged: no; sender: P-0020}
     Desmond Achebe replied: the 8D for SCAR-031 is drafted and he expects to send it by Friday; root cause traced to a dye lot change at the felt mill.
 - [ ] T-0009 Book recalibration of the stage load test rig {type: task; who: Declan Moss; projects: PRJ-0002; tags: Calibration & Test; urgency: today; priority: high; due-date: 2026-10-16; received-datetime: 2026-09-17 13:30}
   - origin: Email "Load rig calibration certificate expiring 7 Oct" from Declan Moss (17 Sep)
@@ -110,7 +110,7 @@
   - origin: Email "Fable Range – retest of Owl and Dragon" sent to helena.sorensen@brightmark.example (12 Oct)
   - description: Asked for price and lead time to retest both SKUs once the fixes are in, ahead of the go/no-go on 28 Oct; no reply seen as of 2026-10-15
   - source-key: mail|Fable Range – retest of Owl and Dragon
-  - comment: {added-datetime: 2026-10-16 17:10; author: email; acknowledged: no; suggests: done}
+  - comment: {added-datetime: 2026-10-16 17:10; author: email; acknowledged: no; suggests: done; sender: P-0021}
     Helena Sørensen sent the quote: £1,840 to retest Owl and Dragon, with results ten working days after the samples arrive.
 - [ ] T-0023 Send Martin Gale the pre-audit document set {type: task; who: Martin Gale; projects: PRJ-0003; tags: Audit & Certification; urgency: this week; priority: medium; due-date: 2026-10-23; received-datetime: 2026-10-13 17:10}
   - origin: Email "Recertification audit – pre-audit information" sent to martin.gale@northgate-cert.example (13 Oct)
