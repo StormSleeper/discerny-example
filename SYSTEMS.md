@@ -12,9 +12,9 @@
 - Goods-In Inspection App {id: SYS-0003; type: application; owner: Meera Ilangovan; part-of: SYS-0002; status: live}
   - description: Tablet app at goods-in that records inspection results against Loomwise purchase-order lines. Sampling plans are set per material group.
 - Academy LMS {id: SYS-0004; type: application; owner: Ravi Chandrasekar; status: live}
-  - description: Hosts the Pennywhistle Academy online courses and issues completion certificates. Upgrade scheduled for 27 Oct 2026.
+  - description: Hosts the Pennywhistle Academy online courses and issues completion certificates. Upgrade scheduled for 10 Nov 2026.
   - link: [Academy LMS](https://learn.pennywhistle.example)
 
 ## Test equipment
 - Stage load test rig {id: SYS-0005; type: instrument; owner: Declan Moss; status: live}
-  - description: Hydraulic rig with four load cells for static and racking load tests on stage decks and frames. Calibration certificate expired 7 Oct 2026; recalibration being booked.
+  - description: Hydraulic rig with four load cells for static and racking load tests on stage decks and frames. Calibration certificate expired 21 Oct 2026; recalibration being booked.
