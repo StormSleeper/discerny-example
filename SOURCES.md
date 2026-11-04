@@ -2,7 +2,7 @@
 <!-- Settings and state for source skills.
      "## defaults" holds settings every source skill shares; each skill then keeps its own
      "## <source-name>" block.
-     Times here are UTC (ISO 8601, `2026-10-15T15:05:41Z`), unlike the other files, which use local time
+     Times here are UTC (ISO 8601, `2026-10-29T15:05:41Z`), unlike the other files, which use local time
      in `timezone` (`YYYY-MM-DD HH:MM`).
      Durations are ISO 8601 (PT2H, P1D).
      Skills change single lines through tools/discern.mjs.
@@ -16,7 +16,7 @@
 - log-runs: true
 
 ## outlook-mail
-- watermark: 2026-10-15T15:05:41Z
+- watermark: 2026-10-29T15:05:41Z
 - overlap: PT2H
 - exclude-subject:
   - (?i)newsletter
@@ -30,22 +30,22 @@
   - notifications@loomwise.pennywhistle.example
   - news@puppeteersguild.example
   - digest@toyindustryweekly.example
-- last-run: 2026-10-15T21:14:03Z
+- last-run: 2026-10-29T21:14:03Z
 - last-result: fetched 11 · filtered 7 · duplicates 1 · inbox +3 (waiting +1, commitments +0)
 - scan-sent-asks: true
 - waiting-min-age: P1D
 - waiting-max-age: P21D
-- waiting-checked-through: 2026-10-14T21:14:03Z
+- waiting-checked-through: 2026-10-28T21:14:03Z
 - waiting-check-cap: 8
 
 ## teams-chat
-- watermark: 2026-10-14T16:22:10Z
+- watermark: 2026-10-28T16:22:10Z
 - overlap: PT1H
 - scan-own-commitments: true
 - scan-sent-asks: true
 - waiting-min-age: P1D
 - waiting-max-age: P14D
-- waiting-checked-through: 2026-10-13T16:22:10Z
+- waiting-checked-through: 2026-10-27T16:22:10Z
 - waiting-check-cap: 6
 - mention-read-cap: 8
 - chat-labels:
@@ -59,7 +59,7 @@
 - exclude-chat:
   - 19:lunch-club
 - exclude-text: (?i)lunch order|cake|happy birthday
-- last-run: 2026-10-15T21:16:40Z
+- last-run: 2026-10-29T21:16:40Z
 - last-result: fetched 23 · filtered 21 · duplicates 2 · inbox +0
 
 ## outlook-calendar
@@ -71,5 +71,5 @@
 - prep-signals: (?i)review|go/no-go|audit|FAI|1:1
 - invite-check-cap: 6
 - transcripts: off
-- last-run: 2026-10-15T21:18:02Z
+- last-run: 2026-10-29T21:18:02Z
 - last-result: fetched 9 · filtered 5 · duplicates 1 · inbox +1 (derived +1)
